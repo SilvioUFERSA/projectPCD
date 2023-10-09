@@ -1,3 +1,6 @@
+//g++ -o mainFilter mainfilter.cpp
+//./mainFilter <nome_do_arquivo_imagem> <tamanho_da_janela> <nome_do_arquivo_saida>
+
 #include <iostream>
 #include <fstream>
 #include <vector>
